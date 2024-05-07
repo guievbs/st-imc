@@ -43,11 +43,6 @@ streamlit run app.py
 ![Captura de tela destktop](https://github.com/guievbs/st-imc/blob/main/images/desktop1.png)
 ![Captura de tela destktop](https://github.com/guievbs/st-imc/blob/main/images/desktop2.png)
 
-### Celular
-
-![Captura de tela celular](https://github.com/guievbs/st-imc/blob/main/images/phone1.png)
-![Captura de tela celular](https://github.com/guievbs/st-imc/blob/main/images/phone2.png)
-
 ## Author
 
 - [Guilherme Sebastião](https://www.github.com/guievbs)
